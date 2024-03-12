@@ -5,14 +5,15 @@ import React from 'react';
 import Homepage from './screens/Homepage';
 import Signin from './screens/Signin';
 import Login from './screens/Login';
-
+import Goods from './screens/Goods';
 
 export default function App() {
   return (
       // <AddTransaction/>
       // <Homepage/>
-      <Signin/>
+      // <Signin/>
       // <Login/>
+      <Goods/>
       
   );
 }
