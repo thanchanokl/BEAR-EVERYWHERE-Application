@@ -26,7 +26,7 @@ export default function Goods() {
         
             <View style={{flexDirection: 'column'}}>
                 <TouchableOpacity style={{marginLeft: 345, marginTop: -50}}>
-                    <FontAwesome name="heart" size={40} color="black" />
+                    <FontAwesome name="heart-o" size={40} color="black" />
                 </TouchableOpacity>
             </View>
         </View>
