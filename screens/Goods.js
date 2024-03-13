@@ -21,12 +21,12 @@ export default function Goods() {
         {/* View ก้อนที่ 2  */}
         <View style={{flexDirection: 'column'}}>
             <View style={{flexDirection: 'column',alignItems: 'center',marginTop: 15}}>
-                <Image style={{width: 375,height: 375, borderRadius:10, borderColor:'gray',borderWidth:0.5}} source={require("../assets/icon/bear/71jq7H2A5PL.jpg")} />
+                <Image style={{width: 375,height: 375, borderRadius:10, borderColor:'gray',borderWidth:0.5}} source={require("../assets/icon/bear/bear-1.jpg")} />
             </View>   
         
             <View style={{flexDirection: 'column'}}>
                 <TouchableOpacity style={{marginLeft: 345, marginTop: -50}}>
-                    <FontAwesome name="heart-o" size={40} color="black" />
+                    <FontAwesome name="heart" size={40} color="black" />
                 </TouchableOpacity>
             </View>
         </View>

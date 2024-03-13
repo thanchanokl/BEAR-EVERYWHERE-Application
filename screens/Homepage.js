@@ -21,7 +21,7 @@ export default function Homepage() {
         <View style={{flexDirection: 'column',flexWrap: 'wrap',justifyContent: 'space-between', padding: 10, width: 150,height: 200, marginTop:20, marginBottom:20}}>
             <View style={{flexDirection: 'column', width: '120%', borderRadius: 10, borderColor: 'gray', borderWidth:0.5, marginLeft: 40}}>
                 <View style={{alignContent: 'center', padding: 3}}>
-                <Image style={{width: 150,height: 150}} source={require("../assets/icon/bear/71jq7H2A5PL.jpg")} />
+                <Image style={{width: 150,height: 150}} source={require("../assets/icon/bear/bear-1.jpg")} />
                 </View>
                 <View style={{padding:5, marginTop: -20}}>
                     <Text style={{fontSize: 15, textAlign: 'center'}}>Teddy Bear</Text>
@@ -32,7 +32,7 @@ export default function Homepage() {
 
             <View style={{flexDirection: 'column', width: '120%', borderRadius: 10, borderColor: 'gray', borderWidth:0.5, marginLeft: 40}}>
                 <View style={{alignContent: 'center', padding: 3}}>
-                <Image style={{width: 150,height: 150}} source={require("../assets/icon/bear/71sBZmaEavL.jpg")} />
+                <Image style={{width: 150,height: 150}} source={require("../assets/icon/bear/bear-2.jpg")} />
                 </View>
                 <View style={{padding:5, marginTop: -20}}>
                     <Text style={{fontSize: 15, textAlign: 'center'}}>Teddy Bear</Text>
@@ -45,7 +45,7 @@ export default function Homepage() {
         <View style={{flexDirection: 'column',flexWrap: 'wrap',justifyContent: 'space-between', padding: 10, width: 150,height: 200, marginTop:20, marginBottom:20}}>
             <View style={{flexDirection: 'column', width: '120%', borderRadius: 10, borderColor: 'gray', borderWidth:0.5, marginLeft: 40}}>
                 <View style={{alignContent: 'center', padding: 3}}>
-                <Image style={{width: 150,height: 150}} source={require("../assets/icon/bear/71jq7H2A5PL.jpg")} />
+                <Image style={{width: 150,height: 150}} source={require("../assets/icon/bear/bear-3.jpg")} />
                 </View>
                 <View style={{padding:5, marginTop: -20}}>
                     <Text style={{fontSize: 15, textAlign: 'center'}}>Teddy Bear</Text>
@@ -56,7 +56,7 @@ export default function Homepage() {
 
             <View style={{flexDirection: 'column', width: '120%', borderRadius: 10, borderColor: 'gray', borderWidth:0.5, marginLeft: 40}}>
                 <View style={{alignContent: 'center', padding: 3}}>
-                <Image style={{width: 150,height: 150}} source={require("../assets/icon/bear/71sBZmaEavL.jpg")} />
+                <Image style={{width: 150,height: 150}} source={require("../assets/icon/bear/bear-4.jpg")} />
                 </View>
                 <View style={{padding:5, marginTop: -20}}>
                     <Text style={{fontSize: 15, textAlign: 'center'}}>Teddy Bear</Text>
@@ -69,7 +69,7 @@ export default function Homepage() {
         <View style={{flexDirection: 'column',flexWrap: 'wrap',justifyContent: 'space-between', padding: 10, width: 150,height: 200, marginTop:20, marginBottom:20}}>
             <View style={{flexDirection: 'column', width: '120%', borderRadius: 10, borderColor: 'gray', borderWidth:0.5, marginLeft: 40}}>
                 <View style={{alignContent: 'center', padding: 3}}>
-                <Image style={{width: 150,height: 150}} source={require("../assets/icon/bear/71jq7H2A5PL.jpg")} />
+                <Image style={{width: 150,height: 150}} source={require("../assets/icon/bear/bear-5.jpg")} />
                 </View>
                 <View style={{padding:5, marginTop: -20}}>
                     <Text style={{fontSize: 15, textAlign: 'center'}}>Teddy Bear</Text>
@@ -80,7 +80,51 @@ export default function Homepage() {
 
             <View style={{flexDirection: 'column', width: '120%', borderRadius: 10, borderColor: 'gray', borderWidth:0.5, marginLeft: 40}}>
                 <View style={{alignContent: 'center', padding: 3}}>
-                <Image style={{width: 150,height: 150}} source={require("../assets/icon/bear/71sBZmaEavL.jpg")} />
+                <Image style={{width: 150,height: 150}} source={require("../assets/icon/bear/bear-6.jpg")} />
+                </View>
+                <View style={{padding:5, marginTop: -20}}>
+                    <Text style={{fontSize: 15, textAlign: 'center'}}>Teddy Bear</Text>
+                    <Text style={{fontSize: 10, textAlign: 'center'}}>3 Ft Soft Sky purple Color Teddy Bear For Gift To Someone</Text>
+                    <Text style={{fontSize: 12, textAlign: 'center'}}>XXX Baht</Text>
+                </View>
+            </View>
+
+            <View style={{flexDirection: 'column', width: '120%', borderRadius: 10, borderColor: 'gray', borderWidth:0.5, marginLeft: 40}}>
+                <View style={{alignContent: 'center', padding: 3}}>
+                <Image style={{width: 150,height: 150}} source={require("../assets/icon/bear/bear-7.jpg")} />
+                </View>
+                <View style={{padding:5, marginTop: -20}}>
+                    <Text style={{fontSize: 15, textAlign: 'center'}}>Teddy Bear</Text>
+                    <Text style={{fontSize: 10, textAlign: 'center'}}>3 Ft Soft Sky purple Color Teddy Bear For Gift To Someone</Text>
+                    <Text style={{fontSize: 12, textAlign: 'center'}}>XXX Baht</Text>
+                </View>
+            </View>
+
+            <View style={{flexDirection: 'column', width: '120%', borderRadius: 10, borderColor: 'gray', borderWidth:0.5, marginLeft: 40}}>
+                <View style={{alignContent: 'center', padding: 3}}>
+                <Image style={{width: 150,height: 150}} source={require("../assets/icon/bear/bear-8.jpg")} />
+                </View>
+                <View style={{padding:5, marginTop: -20}}>
+                    <Text style={{fontSize: 15, textAlign: 'center'}}>Teddy Bear</Text>
+                    <Text style={{fontSize: 10, textAlign: 'center'}}>3 Ft Soft Sky purple Color Teddy Bear For Gift To Someone</Text>
+                    <Text style={{fontSize: 12, textAlign: 'center'}}>XXX Baht</Text>
+                </View>
+            </View>
+
+            <View style={{flexDirection: 'column', width: '120%', borderRadius: 10, borderColor: 'gray', borderWidth:0.5, marginLeft: 40}}>
+                <View style={{alignContent: 'center', padding: 3}}>
+                <Image style={{width: 150,height: 150}} source={require("../assets/icon/bear/bear-9.jpg")} />
+                </View>
+                <View style={{padding:5, marginTop: -20}}>
+                    <Text style={{fontSize: 15, textAlign: 'center'}}>Teddy Bear</Text>
+                    <Text style={{fontSize: 10, textAlign: 'center'}}>3 Ft Soft Sky purple Color Teddy Bear For Gift To Someone</Text>
+                    <Text style={{fontSize: 12, textAlign: 'center'}}>XXX Baht</Text>
+                </View>
+            </View>
+
+            <View style={{flexDirection: 'column', width: '120%', borderRadius: 10, borderColor: 'gray', borderWidth:0.5, marginLeft: 40}}>
+                <View style={{alignContent: 'center', padding: 3}}>
+                <Image style={{width: 150,height: 150}} source={require("../assets/icon/bear/bear-10.jpg")} />
                 </View>
                 <View style={{padding:5, marginTop: -20}}>
                     <Text style={{fontSize: 15, textAlign: 'center'}}>Teddy Bear</Text>
@@ -90,29 +134,8 @@ export default function Homepage() {
             </View>
         </View>
 
-        <View style={{flexDirection: 'column',flexWrap: 'wrap',justifyContent: 'space-between', padding: 10, width: 150,height: 200, marginTop:20, marginBottom:20}}>
-            <View style={{flexDirection: 'column', width: '120%', borderRadius: 10, borderColor: 'gray', borderWidth:0.5, marginLeft: 40}}>
-                <View style={{alignContent: 'center', padding: 3}}>
-                <Image style={{width: 150,height: 150}} source={require("../assets/icon/bear/71jq7H2A5PL.jpg")} />
-                </View>
-                <View style={{padding:5, marginTop: -20}}>
-                    <Text style={{fontSize: 15, textAlign: 'center'}}>Teddy Bear</Text>
-                    <Text style={{fontSize: 10, textAlign: 'center'}}>3 Ft Soft Sky purple Color Teddy Bear For Gift To Someone</Text>
-                    <Text style={{fontSize: 12, textAlign: 'center'}}>XXX Baht</Text>
-                </View>
-            </View>
-
-            <View style={{flexDirection: 'column', width: '120%', borderRadius: 10, borderColor: 'gray', borderWidth:0.5, marginLeft: 40}}>
-                <View style={{alignContent: 'center', padding: 3}}>
-                <Image style={{width: 150,height: 150}} source={require("../assets/icon/bear/71sBZmaEavL.jpg")} />
-                </View>
-                <View style={{padding:5, marginTop: -20}}>
-                    <Text style={{fontSize: 15, textAlign: 'center'}}>Teddy Bear</Text>
-                    <Text style={{fontSize: 10, textAlign: 'center'}}>3 Ft Soft Sky purple Color Teddy Bear For Gift To Someone</Text>
-                    <Text style={{fontSize: 12, textAlign: 'center'}}>XXX Baht</Text>
-                </View>
-            </View>
-        </View>
+        
+        
         </View>
         </ScrollView>
     );
