@@ -9,14 +9,18 @@ import Goods from './screens/Goods';
 import Homepage from './screens/Homepage';
 
 
+
 export default function App() {
   return (
       // <AddTransaction/>
-      <BearEverywhere/>
+      // <BearEverywhere/>
       // <Homepage/>
       // <Signin/>
       // <Login/>
-      // <Goods/>
+      <Goods/>
+
+
+      
       
   );
 }
